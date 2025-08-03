@@ -8,7 +8,7 @@
             "description": "Комплект из трёх стульев и дизайнерский столик для гостинной комнаты.",
             "image": "",
             "price": "150.00",
-            "discount": "0.00",
+            "discount": "90.00",
             "quantity": 10,
             "category": 8
         }
@@ -104,9 +104,9 @@
             "name": "Диван обыкновенный",
             "slug": "divan-obyknovennyj",
             "description": "Диван, он же софа обыкновенная, ничего примечательного для описания.",
-            "image": "",
+            "image": "goods_images/sofa.jpg",
             "price": "190.00",
-            "discount": "0.00",
+            "discount": "10.00",
             "quantity": 4,
             "category": 4
         }
